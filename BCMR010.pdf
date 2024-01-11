@@ -1,0 +1,1876 @@
+%PDF-1.1
+1 0 obj
+<<
+/Creator (Developer 2000)
+/CreatorDate (
+/Author (Oracle Reports)
+/Producer (Oracle PDF driver)
+/Title (BCMR010.pdf)
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids 4 0 R
+/Count 5 0 R
+>>
+endobj
+7 0 obj
+<</Length 8 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(1) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 373.48 567.00 346.52 re f*
+103.52 373.48 382.52 265.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO014) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+239.76 0.36 TD
+/F0 11.00 Tf
+(14) Tj
+-110.88 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(SEP-17) Tj
+-346.48 -22.52 TD
+(Purchases of Digital equipment) Tj
+0.00 -23.24 TD
+(Digisay Co. Ltd.) Tj
+346.48 23.24 TD
+(    400,120.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO014.1) Tj
+0.00 -13.52 TD
+(INV_PO014.1) Tj
+0.00 -13.48 TD
+(INV_PO014.1) Tj
+0.00 -13.52 TD
+(INV_PO014.1) Tj
+0.00 -13.48 TD
+(INV_PO014.1) Tj
+0.00 -13.52 TD
+(INV_PO014.1) Tj
+0.00 -13.48 TD
+(INV_PO014.1) Tj
+0.00 -13.52 TD
+(INV_PO014.2) Tj
+0.00 -13.48 TD
+(INV_PO014.2) Tj
+0.00 -13.52 TD
+(INV_PO014.2) Tj
+0.00 -13.48 TD
+(INV_PO014.3) Tj
+0.00 -13.52 TD
+(INV_PO014.3) Tj
+0.00 -13.48 TD
+(INV_PO014.3) Tj
+0.00 -13.52 TD
+(INV_PO014.3) Tj
+0.00 -13.48 TD
+(INV_PO014.3) Tj
+0.00 -13.52 TD
+(INV_PO014.4) Tj
+0.00 -13.48 TD
+(INV_PO014.4) Tj
+0.00 -13.52 TD
+(INV_PO014.4) Tj
+1 1 0 rg
+0.00 247.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     17,300.00) Tj
+0.00 -13.52 TD
+(     13,500.00) Tj
+0.00 -13.48 TD
+(      7,920.00) Tj
+0.00 -13.52 TD
+(      4,275.00) Tj
+0.00 -13.48 TD
+(      5,600.00) Tj
+0.00 -13.52 TD
+(     15,200.00) Tj
+0.00 -13.48 TD
+(     72,500.00) Tj
+0.00 -13.52 TD
+(     13,250.00) Tj
+0.00 -13.48 TD
+(     10,000.00) Tj
+0.00 -13.52 TD
+(      3,550.00) Tj
+0.00 -13.48 TD
+(        900.00) Tj
+0.00 -13.52 TD
+(     12,125.00) Tj
+0.00 -13.48 TD
+(     54,850.00) Tj
+0.00 -13.52 TD
+(      5,300.00) Tj
+0.00 -13.48 TD
+(     15,900.00) Tj
+0.00 -13.52 TD
+(     11,900.00) Tj
+0.00 -13.48 TD
+(     13,850.00) Tj
+0.00 -13.52 TD
+(     17,600.00) Tj
+1 1 0 rg
+0.00 247.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(TO FOLLOW-UP) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(TO FOLLOW-UP) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(TO FOLLOW-UP) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(TO FOLLOW-UP) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 247.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+8 0 obj
+2903
+endobj
+9 0 obj
+<</Type /Font
+/Name /F0
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Arial
+/FirstChar 24
+/LastChar 255
+/Widths 10 0 R
+/FontDescriptor 11 0 R
+>>
+endobj
+10 0 obj
+[744 744 744 744 744 744 744 744 276 300 
+348 552 552 888 660 192 336 336 384 576 
+276 336 276 276 552 552 552 552 552 552 
+552 552 552 552 276 276 576 576 576 552 
+1008 660 660 720 720 660 612 780 720 276 
+504 660 552 828 720 780 660 780 720 660 
+624 720 660 996 672 648 612 276 276 276 
+456 552 336 552 552 504 552 552 288 552 
+552 216 228 516 216 852 552 552 552 552 
+336 504 276 552 492 708 504 468 480 336 
+240 336 576 744 552 0 216 552 336 996 
+552 552 336 996 660 336 996 0 612 0 
+0 216 216 336 336 348 552 996 288 996 
+504 336 936 0 480 648 276 300 552 552 
+552 552 240 552 336 732 372 552 576 336 
+732 552 396 552 336 336 336 576 540 336 
+336 336 360 552 828 828 828 612 660 660 
+660 660 660 660 996 720 660 660 660 660 
+276 276 276 276 720 720 780 780 780 780 
+780 576 780 720 720 720 720 648 660 612 
+552 552 552 552 552 552 888 504 552 552 
+552 552 276 276 276 276 552 552 552 552 
+552 552 552 552 612 552 552 552 552 468 
+552 468 ]
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Arial
+/Ascent 888
+/CapHeight 780
+/Descent -216
+/Flags 32
+/FontBBox [0 0 0 0]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 516
+/MaxWidth 1008
+>>
+endobj
+12 0 obj
+<</Type /Font
+/Name /F1
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Arial,Bold
+/FirstChar 24
+/LastChar 255
+/Widths 13 0 R
+/FontDescriptor 14 0 R
+>>
+endobj
+13 0 obj
+[744 744 744 744 744 744 744 744 276 312 
+468 552 552 876 720 240 336 336 384 576 
+276 336 276 276 552 552 552 552 552 552 
+552 552 552 552 336 336 576 576 576 612 
+972 684 720 720 720 660 612 780 720 276 
+552 720 612 852 720 780 660 780 720 660 
+624 720 660 948 660 672 612 336 276 336 
+576 552 336 552 612 552 612 552 336 612 
+612 276 276 552 276 888 612 612 612 612 
+384 552 336 612 564 792 552 540 504 384 
+276 384 576 744 552 0 276 552 504 996 
+552 552 336 1020 660 336 996 0 612 0 
+0 276 276 504 504 348 552 996 312 996 
+552 336 936 0 504 672 276 336 552 552 
+552 552 276 552 324 732 372 552 576 336 
+732 552 396 552 336 336 336 576 552 336 
+324 336 360 552 828 828 828 612 684 684 
+684 684 684 684 996 720 660 660 660 660 
+276 276 276 276 720 720 780 780 780 780 
+780 576 780 720 720 720 720 672 660 612 
+552 552 552 552 552 552 888 552 552 552 
+552 552 276 276 276 276 612 612 612 612 
+612 612 612 552 612 612 612 612 612 540 
+612 540 ]
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Arial,Bold
+/Ascent 924
+/CapHeight 768
+/Descent -228
+/Flags 32
+/FontBBox [0 0 0 0]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 540
+/MaxWidth 1020
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 7 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+16 0 obj
+<</Length 17 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(2) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 562.48 567.00 157.52 re f*
+103.52 562.48 382.52 76.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO013) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+239.76 0.36 TD
+/F0 11.00 Tf
+(13) Tj
+-110.88 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(AUG-17) Tj
+-346.48 -22.52 TD
+(Purchase of Cars) Tj
+0.00 -23.24 TD
+(Mottoway Corp.) Tj
+346.48 23.24 TD
+(  5,819,625.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO013.1) Tj
+0.00 -13.52 TD
+(INV_PO013.1) Tj
+0.00 -13.48 TD
+(INV_PO013.1) Tj
+0.00 -13.52 TD
+(INV_PO013.1) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(  1,302,000.00) Tj
+0.00 -13.52 TD
+(  1,091,125.00) Tj
+0.00 -13.48 TD
+(  1,974,000.00) Tj
+0.00 -13.52 TD
+(  1,452,500.00) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+17 0 obj
+1501
+endobj
+15 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 16 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+19 0 obj
+<</Length 20 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(3) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 495.00 567.00 225.00 re f*
+103.52 495.00 382.52 144.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO012) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+239.76 0.36 TD
+/F0 11.00 Tf
+(12) Tj
+-110.88 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(AUG-17) Tj
+-346.48 -22.52 TD
+(Vehicle Spare parts) Tj
+0.00 -23.24 TD
+(Pegasus Ltd) Tj
+346.48 23.24 TD
+(    265,000.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO012.1) Tj
+0.00 -13.52 TD
+(INV_PO012.1) Tj
+0.00 -13.48 TD
+(INV_PO012.1) Tj
+0.00 -13.52 TD
+(INV_PO012.2) Tj
+0.00 -13.48 TD
+(INV_PO012.2) Tj
+0.00 -13.52 TD
+(INV_PO012.2) Tj
+0.00 -13.48 TD
+(INV_PO012.3) Tj
+0.00 -13.52 TD
+(INV_PO012.3) Tj
+0.00 -13.48 TD
+(INV_PO012.3) Tj
+1 1 0 rg
+0.00 125.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     37,800.00) Tj
+0.00 -13.52 TD
+(      7,250.00) Tj
+0.00 -13.48 TD
+(      3,450.00) Tj
+0.00 -13.52 TD
+(     40,000.00) Tj
+0.00 -13.48 TD
+(     55,870.00) Tj
+0.00 -13.52 TD
+(     12,500.00) Tj
+0.00 -13.48 TD
+(     12,600.00) Tj
+0.00 -13.52 TD
+(     43,750.00) Tj
+0.00 -13.48 TD
+(     28,000.00) Tj
+1 1 0 rg
+0.00 125.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+1 1 0 rg
+0.00 125.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+20 0 obj
+1983
+endobj
+18 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 19 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+22 0 obj
+<</Length 23 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(4) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 589.48 567.00 130.52 re f*
+103.52 589.48 382.52 49.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO011) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+239.76 0.36 TD
+/F0 11.00 Tf
+(11) Tj
+-110.88 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JUL-17) Tj
+-346.48 -22.52 TD
+(Purchase of Stationeries) Tj
+0.00 -23.24 TD
+(Lamboni Stat Inc.) Tj
+346.48 23.24 TD
+(     43,200.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO011.1) Tj
+0.00 -13.52 TD
+(INV_PO011.1) Tj
+1 1 0 rg
+0.00 31.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     40,000.00) Tj
+0.00 -13.52 TD
+(      3,200.00) Tj
+1 1 0 rg
+0.00 31.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 31.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+23 0 obj
+1320
+endobj
+21 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 22 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+25 0 obj
+<</Length 26 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(5) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 549.00 567.00 171.00 re f*
+103.52 549.00 382.52 90.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO010) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+239.76 0.36 TD
+/F0 11.00 Tf
+(10) Tj
+-110.88 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JUL-17) Tj
+-346.48 -22.52 TD
+(Electronic spare parts) Tj
+0.00 -23.24 TD
+(Foxy Electronics) Tj
+346.48 23.24 TD
+(    182,700.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO010.1) Tj
+0.00 -13.52 TD
+(INV_PO010.1) Tj
+0.00 -13.48 TD
+(INV_PO010.1) Tj
+0.00 -13.52 TD
+(INV_PO010.1) Tj
+0.00 -13.48 TD
+(INV_PO010.1) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     98,000.00) Tj
+0.00 -13.52 TD
+(     17,500.00) Tj
+0.00 -13.48 TD
+(     21,000.00) Tj
+0.00 -13.52 TD
+(     28,000.00) Tj
+0.00 -13.48 TD
+(     18,200.00) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+26 0 obj
+1605
+endobj
+24 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 25 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+28 0 obj
+<</Length 29 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(6) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 603.00 567.00 117.00 re f*
+103.52 603.00 382.52 36.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO009) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(9) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JUN-17) Tj
+-346.48 -22.52 TD
+(Security vests) Tj
+0.00 -23.24 TD
+(Fireland Bros.) Tj
+346.48 23.24 TD
+(     36,800.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO009.1) Tj
+1 1 0 rg
+0.00 17.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     22,500.00) Tj
+1 1 0 rg
+0.00 17.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+1 1 0 rg
+0.00 17.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+29 0 obj
+1208
+endobj
+27 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 28 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+31 0 obj
+<</Length 32 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(7) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 549.00 567.00 171.00 re f*
+103.52 549.00 382.52 90.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO008) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(8) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JUN-17) Tj
+-346.48 -22.52 TD
+(Orders of computer spare parts) Tj
+0.00 -23.24 TD
+(Jinfix Computers) Tj
+346.48 23.24 TD
+(     85,200.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO008.1) Tj
+0.00 -13.52 TD
+(INV_PO008.1) Tj
+0.00 -13.48 TD
+(INV_PO008.2) Tj
+0.00 -13.52 TD
+(INV_PO008.2) Tj
+0.00 -13.48 TD
+(INV_PO008.2) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     15,250.00) Tj
+0.00 -13.52 TD
+(     25,000.00) Tj
+0.00 -13.48 TD
+(     23,000.00) Tj
+0.00 -13.52 TD
+(      6,950.00) Tj
+0.00 -13.48 TD
+(     15,000.00) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+1 1 0 rg
+0.00 71.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+32 0 obj
+1610
+endobj
+30 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 31 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+34 0 obj
+<</Length 35 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(8) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 562.48 567.00 157.52 re f*
+103.52 562.48 382.52 76.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO007) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(7) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JUN-17) Tj
+-346.48 -22.52 TD
+(Taxi services fees) Tj
+0.00 -23.24 TD
+(Safedest Taxi Services) Tj
+346.48 23.24 TD
+(     26,700.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO007.1) Tj
+0.00 -13.52 TD
+(INV_PO007.1) Tj
+0.00 -13.48 TD
+(INV_PO007.1) Tj
+0.00 -13.52 TD
+(INV_PO007.1) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(      3,700.00) Tj
+0.00 -13.52 TD
+(      4,500.00) Tj
+0.00 -13.48 TD
+(      4,800.00) Tj
+0.00 -13.52 TD
+(      4,200.00) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+35 0 obj
+1510
+endobj
+33 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 34 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+37 0 obj
+<</Length 38 0 R>>
+stream
+BT
+300.04 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(9) Tj
+-152.00 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 562.48 567.00 157.52 re f*
+103.52 562.48 382.52 76.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO005) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(5) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(APR-17) Tj
+-346.48 -22.52 TD
+(International Magazines) Tj
+0.00 -23.24 TD
+(Emtello Ltd) Tj
+346.48 23.24 TD
+(     21,000.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO005.1) Tj
+0.00 -13.52 TD
+(INV_PO005.1) Tj
+0.00 -13.48 TD
+(INV_PO005.2) Tj
+0.00 -13.52 TD
+(INV_PO005.2) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(      3,000.00) Tj
+0.00 -13.52 TD
+(      5,000.00) Tj
+0.00 -13.48 TD
+(      5,000.00) Tj
+0.00 -13.52 TD
+(      8,000.00) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(TO FOLLOW-UP) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+38 0 obj
+1514
+endobj
+36 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 37 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+40 0 obj
+<</Length 41 0 R>>
+stream
+BT
+297.28 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(10) Tj
+-149.24 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 535.48 567.00 184.52 re f*
+103.52 535.48 382.52 103.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO006) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(6) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(FEB-17) Tj
+-346.48 -22.52 TD
+(Stationery orders) Tj
+0.00 -23.24 TD
+(Stuffie Stationery) Tj
+346.48 23.24 TD
+(    250,000.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO006.1) Tj
+0.00 -13.52 TD
+(INV_PO006.2) Tj
+0.00 -13.48 TD
+(INV_PO006.3) Tj
+0.00 -13.52 TD
+(INV_PO006.4) Tj
+0.00 -13.48 TD
+(INV_PO006.5) Tj
+0.00 -13.52 TD
+(INV_PO006.6) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     24,300.00) Tj
+0.00 -13.52 TD
+(      4,300.00) Tj
+0.00 -13.48 TD
+(     25,400.00) Tj
+0.00 -13.52 TD
+(     50,200.00) Tj
+0.00 -13.48 TD
+(     70,800.00) Tj
+0.00 -13.52 TD
+(     60,000.00) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+41 0 obj
+1697
+endobj
+39 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 40 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+43 0 obj
+<</Length 44 0 R>>
+stream
+BT
+297.28 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(11) Tj
+-149.24 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 576.00 567.00 144.00 re f*
+103.52 576.00 382.52 63.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO004) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(4) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(FEB-17) Tj
+-346.48 -22.52 TD
+(Purchase of Stationeries) Tj
+0.00 -23.24 TD
+(Lamboni Stat Inc.) Tj
+346.48 23.24 TD
+(      6,800.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO004) Tj
+0.00 -13.52 TD
+(INV_PO004) Tj
+0.00 -13.48 TD
+(INV_PO004.1) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(      2,000.00) Tj
+0.00 -13.52 TD
+(      1,200.00) Tj
+0.00 -13.48 TD
+(      3,000.00) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+44 0 obj
+1412
+endobj
+42 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 43 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+46 0 obj
+<</Length 47 0 R>>
+stream
+BT
+297.28 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(12) Tj
+-149.24 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 562.48 567.00 157.52 re f*
+103.52 562.48 382.52 76.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO003) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(3) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JAN-17) Tj
+-346.48 -22.52 TD
+(Computer screens) Tj
+0.00 -23.24 TD
+(Digisay Co. Ltd.) Tj
+346.48 23.24 TD
+(     57,300.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO003.1) Tj
+0.00 -13.52 TD
+(INV_PO003.1) Tj
+0.00 -13.48 TD
+(INV_PO003.1) Tj
+0.00 -13.52 TD
+(INV_PO003.2) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(     20,300.00) Tj
+0.00 -13.52 TD
+(     22,000.00) Tj
+0.00 -13.48 TD
+(      5,000.00) Tj
+0.00 -13.52 TD
+(     10,000.00) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 58.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+47 0 obj
+1503
+endobj
+45 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 46 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+49 0 obj
+<</Length 50 0 R>>
+stream
+BT
+297.28 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(13) Tj
+-149.24 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 576.00 567.00 144.00 re f*
+103.52 576.00 382.52 63.00 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO002) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(2) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JAN-17) Tj
+-346.48 -22.52 TD
+(Purchase of Car) Tj
+0.00 -23.24 TD
+(Mottoway Corp.) Tj
+346.48 23.24 TD
+(    750,000.00) Tj
+0.00 -23.24 TD
+(Open) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO002.1) Tj
+0.00 -13.52 TD
+(INV_PO002.2) Tj
+0.00 -13.48 TD
+(INV_PO002.3) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(    100,000.00) Tj
+0.00 -13.52 TD
+(    300,000.00) Tj
+0.00 -13.48 TD
+(    249,000.00) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+1 1 0 rg
+0.00 44.64 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+50 0 obj
+1402
+endobj
+48 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 49 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+52 0 obj
+<</Length 53 0 R>>
+stream
+BT
+297.28 31.64 TD
+/F0 10.00 Tf
+(Page ) Tj
+(14) Tj
+-149.24 721.20 TD
+/F1 10.00 Tf
+(SUMMARY OF ORDERS AND CORRESPONDING INVOICES) Tj
+0.8400 g
+ET
+18.00 535.48 567.00 184.52 re f*
+103.52 535.48 382.52 103.52 re f*
+0 0 0.5000 rg
+117.00 620.96 342.00 13.52 re f*
+0 g
+BT
+121.52 705.56 TD
+/F0 11.00 Tf
+(PO001) Tj
+-52.40 -0.36 TD
+/F1 11.00 Tf
+(Order No) Tj
+242.84 0.36 TD
+/F0 11.00 Tf
+(1) Tj
+-113.96 -0.36 TD
+/F1 11.00 Tf
+(Order Reference) Tj
+270.00 0.36 TD
+/F0 11.00 Tf
+(JAN-17) Tj
+-346.48 -22.52 TD
+(Vehicle Spare parts) Tj
+0.00 -23.24 TD
+(Pegasus Ltd) Tj
+346.48 23.24 TD
+(     10,000.00) Tj
+0.00 -23.24 TD
+(Closed) Tj
+-75.96 -0.36 TD
+/F1 11.00 Tf
+(Order Status) Tj
+-275.04 -51.80 TD
+/F0 10.00 Tf
+(INV_PO001) Tj
+0.00 -13.52 TD
+(INV_PO001) Tj
+0.00 -13.48 TD
+(INV_PO001) Tj
+0.00 -13.52 TD
+(INV_PO001) Tj
+0.00 -13.48 TD
+(INV_PO001.1) Tj
+0.00 -13.52 TD
+(INV_PO001.1) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Invoice Reference) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(        800.00) Tj
+0.00 -13.52 TD
+(        600.00) Tj
+0.00 -13.48 TD
+(      2,500.00) Tj
+0.00 -13.52 TD
+(      2,000.00) Tj
+0.00 -13.48 TD
+(      3,000.00) Tj
+0.00 -13.52 TD
+(      1,100.00) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Invoice Amount) Tj
+0 g
+117.00 -17.64 TD
+/F0 10.00 Tf
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+0.00 -13.48 TD
+(OK) Tj
+0.00 -13.52 TD
+(OK) Tj
+1 1 0 rg
+0.00 85.16 TD
+/F1 10.00 Tf
+(Action) Tj
+0 g
+-327.96 57.40 TD
+/F1 11.00 Tf
+(Order Description) Tj
+368.40 22.52 TD
+(Order Period) Tj
+-351.72 -45.00 TD
+(Supplier Name) Tj
+315.36 22.48 TD
+(Order Total Amount) Tj
+ET
+endstream
+endobj
+53 0 obj
+1686
+endobj
+51 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 9 0 R /F1 12 0 R >> >>
+/Contents 52 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+[ 6 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R ]
+endobj
+5 0 obj
+14
+endobj
+xref
+0 54
+0000000000 65535 f
+0000000010 00000 n
+0000029681 00000 n
+0000000157 00000 n
+0000029736 00000 n
+0000029855 00000 n
+0000005949 00000 n
+0000000223 00000 n
+0000003181 00000 n
+0000003204 00000 n
+0000003384 00000 n
+0000004371 00000 n
+0000004571 00000 n
+0000004757 00000 n
+0000005744 00000 n
+0000007724 00000 n
+0000006142 00000 n
+0000007700 00000 n
+0000009983 00000 n
+0000007919 00000 n
+0000009959 00000 n
+0000011579 00000 n
+0000010178 00000 n
+0000011555 00000 n
+0000013460 00000 n
+0000011774 00000 n
+0000013436 00000 n
+0000014944 00000 n
+0000013655 00000 n
+0000014920 00000 n
+0000016830 00000 n
+0000015139 00000 n
+0000016806 00000 n
+0000018616 00000 n
+0000017025 00000 n
+0000018592 00000 n
+0000020406 00000 n
+0000018811 00000 n
+0000020382 00000 n
+0000022379 00000 n
+0000020601 00000 n
+0000022355 00000 n
+0000024067 00000 n
+0000022574 00000 n
+0000024043 00000 n
+0000025846 00000 n
+0000024262 00000 n
+0000025822 00000 n
+0000027524 00000 n
+0000026041 00000 n
+0000027500 00000 n
+0000029486 00000 n
+0000027719 00000 n
+0000029462 00000 n
+trailer
+<<
+/Size 54
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+29876
+%%EOF
